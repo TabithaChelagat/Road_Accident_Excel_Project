@@ -145,10 +145,17 @@ The sum of 417,883 casualties represents the total number of casualties that occ
 The provided data presents a breakdown of total casualties categorized by accident severity between the years 2021 and 2022. Here's a summary:
 
 - *Fatal Casualties:* There were 7,135 fatal casualties, accounting for approximately 1.7% of the total casualties.
+  
+![UK Road Accident Dashboard (1)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/4e98d550-7b79-440e-9e53-85aa291fd814)
 
 - *Serious Casualties:* The number of serious casualties was 59,312, constituting approximately 14.2% of the total casualties.
 
+![Screenshot (188) (1)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/8055af1f-c9ec-43e7-b15a-cd9b2cf1797f)
+
 - *Slight Casualties:* The majority of casualties were categorized as slight, with a total of 351,436 casualties, representing about 84.1% of the total.
+
+![Screenshot (188) (2)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/4b2ad1c1-3832-436e-a274-83fa7058d56f)
+
 
 In summary, the data illustrates that while fatal and serious casualties make up a smaller proportion of the total, slight casualties constitute the majority of the incidents, 
 highlighting the importance of addressing factors contributing to minor accidents to improve overall road safety.
@@ -181,7 +188,13 @@ highlighting the importance of addressing factors contributing to minor accident
 
 - *Others:* Casualties involving other types of vehicles totaled 3,424.
 
+![UK Road Accident Dashboard (5)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/4622873f-d05b-4ea5-a5e1-461eef4a39a4)
+
+  
 The data indicates that incidents involving cars resulted in the highest number of casualties. Therefore, we will focus our analysis on casualties involving cars to gain deeper insights into the factors contributing to these incidents.
+
+![UK Road Accident Dashboard (2)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/a965ceef-9ed2-4ba4-add2-cd6ca05ad6a5)
+
 
 Approximately 80% of the total casualties involved cars. This highlights the significant impact of car-related accidents and underscores the importance of understanding and addressing factors contributing to these incidents to improve overall road safety.
 
@@ -207,6 +220,9 @@ Approximately 80% of the total casualties involved cars. This highlights the sig
 *Summary of the trends observed:*
 
 - Overall Trend: In general, there appears to be a fluctuating trend in casualties between the two years, with some months experiencing increases while others see decreases.
+
+![Screenshot (188) (3)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/3da6f935-102f-4eeb-a1b5-7d88b4922f4c)
+
 
 Monthly Comparison:
 
@@ -250,6 +266,9 @@ The provided data illustrates the maximum casualties categorized by road type
 - *One-Way Street and Slip Road:* One-way streets and slip roads recorded relatively lower numbers of casualties compared to single and dual carriageways, with 7.4k and 4.7k casualties 
    respectively. However, they still contribute to the overall casualty count.
 
+![UK Road Accident Dashboard (3)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/864f09ea-faa2-4cf0-afc3-76bf72937496)
+
+
 These findings underscore the importance of implementing targeted safety measures, such as improved signage, traffic management, and speed enforcement, particularly on single and dual carriageways, to reduce the incidence of accidents and enhance road safety. Additionally, addressing safety concerns at roundabouts can also help in mitigating casualties at these locations.
 
 
@@ -278,6 +297,9 @@ The data revealed the following,
 
 - *Unknown Surface:* A small number of casualties (396) were reported with an unknown road surface type, which could be due to data recording or reporting inconsistencies.
 
+![UK Road Accident Dashboard (4)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/02fb6d36-4bbd-49ba-9fa2-6c20d9705033)
+
+
 Overall, the data highlights the impact of road surface conditions on road safety, with dry surfaces being the most common setting for accidents, followed by wet surfaces. Adverse weather conditions like snow or ice also pose significant risks to road users, emphasizing the importance of exercising caution and implementing appropriate safety measures during inclement weather.
 
 
@@ -294,11 +316,14 @@ Overall, the data highlights the impact of road surface conditions on road safet
 
 *Summary of findings:*
 
-- *Urban Casualties:* There were a total of 255.9k casualties reported in urban areas, representing approximately 61.3% of the grand total. This indicates a higher concentration of 
+- *Urban Casualties:* There were a total of 255.9k casualties reported in urban areas, representing approximately 61.3% of the total. This indicates a higher concentration of 
    accidents in urban environments.
 
 - *Rural Casualties:* Casualties reported in rural areas amounted to 162.0k, accounting for around 38.7% of the total. Although lower than urban casualties, accidents in rural settings 
    still contribute significantly to the overall casualty count.
+
+![UK Road Accident Dashboard (6)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/f398c434-d26b-4e30-b595-37482d4ef305)
+
 
 The data suggests a higher incidence of accidents in urban areas compared to rural areas, highlighting the need for targeted road safety measures and infrastructure improvements in urban environments to reduce the risk of accidents and enhance overall road safety.
 
@@ -318,6 +343,9 @@ The data suggests a higher incidence of accidents in urban areas compared to rur
 - *Daylight Casualties:* The majority of casualties, totaling 304,963, occurred in daylight conditions. This indicates that the majority of accidents happen when visibility is optimal, possibly due to higher traffic volume during the day.
 
 - *Dark Casualties:* Casualties reported in dark conditions amounted to 112,920. Although significantly lower than daylight casualties, accidents in dark conditions still contribute substantially to the overall casualty count.
+
+![Screenshot (188) (4)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/c8b30268-18a0-494d-939f-59010e132291)
+
 
 The data suggests that accidents are more prevalent during daylight hours compared to dark conditions. However, it's essential to implement appropriate safety measures, such as improved street lighting and driver awareness campaigns, to mitigate the risk of accidents in both daylight and dark conditions.
 
