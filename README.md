@@ -80,7 +80,11 @@ With a total of 307,874 data entries and zero nulls and duplicates, our dataset 
 
 **DATA CLEANING**
 
-Using the Find and Replace Excel function ``(Ctrl + H)``, we successfully corrected the spelling errors in the Accident_Severity column. Specifically, the 49 data
+Using the Find and Replace Excel function 
+
+``(Ctrl + H)``
+
+, we successfully corrected the spelling errors in the Accident_Severity column. Specifically, the 49 data
 entries that were misspelled as "Fetal" were found and replaced with the correct spelling "Fatal". This ensures the accuracy and integrity of the data in the dataset.
 
 
@@ -88,19 +92,28 @@ entries that were misspelled as "Fetal" were found and replaced with the correct
 
 ***Extracting month from Accident Date column:***
 
-Using the following function, ``=TEXT(B3,"mmm")``, the month was extracted from the Accident Date column. This Excel function, ``TEXT``, allows formatting of cell contents based on a specified format code. In this case, ``B3`` represents the cell containing the date, and ``"mmm"`` is the format code that extracts the abbreviated month name from the date in cell ``B3``. This process enables us to isolate and analyze the months in which accidents occurred, providing valuable insights into temporal patterns and trends.
+Using the following function,
+
+``=TEXT(B3,"mmm")``
+
+, the month was extracted from the Accident Date column. This Excel function, ``TEXT``, allows formatting of cell contents based on a specified format code. In this case, ``B3`` represents the cell containing the date, and ``"mmm"`` is the format code that extracts the abbreviated month name from the date in cell ``B3``. This process enables us to isolate and analyze the months in which accidents occurred, providing valuable insights into temporal patterns and trends.
 
 ***Extracting year from Accident Date column:***
 
-Using the Excel function ``=TEXT(B3,"yyyy")``, we extracted the year from the Accident Date column. This function converts the date in cell B3 into a text format displaying only the year portion.
+Using the Excel function,
+
+``=TEXT(B3,"yyyy")``
+
+, we extracted the year from the Accident Date column. This function converts the date in cell B3 into a text format displaying only the year portion.
 
 
 ***DATA ANALYSIS***
 
+We did the following analyses to provide insights into the questions to be answered.
+
 All our analyses will be conducted using pivot tables.
 
-We initiated our analysis by examining the ***total casualties that occurred following the accidents***. This involved aggregating and summarizing casualty data using pivot tables.
-
+1. ***Total casualties that occurred following the accident***. 
 
 |        Number_of_Casualties |
 |-----------------------------|
@@ -110,7 +123,7 @@ We initiated our analysis by examining the ***total casualties that occurred fol
 The sum of 417,883 casualties represents the total number of casualties that occurred between the years 2021 and 2022.
 
 
-Next, we analyzed the ***total casualties and their percentage concerning accident severity***.
+2. ***Total casualties and their percentage concerning accident severity***.
 
 
 | Severity   | Sum of Number_of_Casualties |
@@ -120,7 +133,7 @@ Next, we analyzed the ***total casualties and their percentage concerning accide
 | Slight     | 351436 (84.1%)              |
 | Grand Total| 417883                      |
 
-*Summary:*
+*Summary of findings:*
 
 The provided data presents a breakdown of total casualties categorized by accident severity between the years 2021 and 2022. Here's a summary:
 
@@ -134,7 +147,7 @@ In summary, the data illustrates that while fatal and serious casualties make up
 highlighting the importance of addressing factors contributing to minor accidents to improve overall road safety.
 
 
-***Number of casualties categorized by vehicle type between the years 2021 and 2022***. 
+3. ***Number of casualties categorized by vehicle type between the years 2021 and 2022***. 
 
 
 | Type of vehicle     | Sum of Number_of_Casualties |
@@ -147,7 +160,7 @@ highlighting the importance of addressing factors contributing to minor accident
 | Others              | 3424                         |
 | Grand Total         | 417883                       |
 
-*Summary:*
+*Summary of findings:*
 
 - *Agricultural Vehicle:* There were 1,032 casualties involving agricultural vehicles.
 
@@ -166,7 +179,7 @@ The data indicates that incidents involving cars resulted in the highest number 
 Approximately 80% of the total casualties involved cars. This highlights the significant impact of car-related accidents and underscores the importance of understanding and addressing factors contributing to these incidents to improve overall road safety.
 
 
-Next, we analyzed the ***monthly trend showing the comparison of casualties in the current and previous year***.
+4. ***Monthly trend showing the comparison of casualties in the current and previous year***.
 
 | Month | 2021 Casualties | 2022 Casualties |
 |-------|------------------|------------------|
@@ -201,7 +214,7 @@ Monthly Comparison:
 - *Seasonal Variations:* There appears to be seasonal variation in casualty rates, with casualties generally increasing during the warmer months and decreasing during the colder months.
 
 
-***Maximum casualties by road type***
+5. ***Maximum casualties by road type***
 
 The provided data illustrates the maximum casualties categorized by road type
 
@@ -233,7 +246,7 @@ The provided data illustrates the maximum casualties categorized by road type
 These findings underscore the importance of implementing targeted safety measures, such as improved signage, traffic management, and speed enforcement, particularly on single and dual carriageways, to reduce the incidence of accidents and enhance road safety. Additionally, addressing safety concerns at roundabouts can also help in mitigating casualties at these locations.
 
 
-***Maximum casualties by road surface***
+6. ***Maximum casualties by road surface***
 
 The data revealed the following,
 
@@ -261,7 +274,7 @@ The data revealed the following,
 Overall, the data highlights the impact of road surface conditions on road safety, with dry surfaces being the most common setting for accidents, followed by wet surfaces. Adverse weather conditions like snow or ice also pose significant risks to road users, emphasizing the importance of exercising caution and implementing appropriate safety measures during inclement weather.
 
 
-***Relation between casualties by location and lighting conditions***.
+7. ***Relation between casualties by location and lighting conditions***.
 
 *Location:*
 
@@ -310,14 +323,19 @@ The data suggests that accidents are more prevalent during daylight hours compar
 The dashboard features a user-friendly filter panel comprising a timeline for navigating through different months and a slicer for location (urban/rural), empowering stakeholders to explore the data efficiently.
 
 Positioned on the left side of the dashboard are five icons, each serving a distinct purpose. 
-Clicking on the second icon directs users to the dashboard sheet within our Excel file, providing access to the raw data.
-The third icon leads to the data analysis sheet, housing comprehensive analyses conducted on the dataset. 
-Utilizing the fourth icon facilitates emailing the dashboard directly to stakeholders. 
-Lastly, clicking on the last icon redirects users to the UK Road Accident website, facilitating access to additional information and resources pertinent to road safety.
+
+- Clicking on the second icon directs users to the dashboard sheet within our Excel file, providing access to the raw data.
+  
+- The third icon leads to the data analysis sheet, housing comprehensive analyses conducted on the dataset.
+  
+- Utilizing the fourth icon facilitates emailing the dashboard directly to stakeholders.
+ 
+- Lastly, clicking on the last icon redirects users to the UK Road Accident website, facilitating access to additional information and resources pertinent to road safety.
 
 
 
 **CONCLUSION**
+
 
 - ***Trend Analysis:*** The data analysis reveals various trends and patterns regarding road accidents between 2021 and 2022. Casualties varied by month, with fluctuations observed across different road types, lighting conditions, and urban/rural areas.
 
