@@ -33,12 +33,19 @@ The analysis and dashboard developed through this project will provide valuable 
 **QUESTIONS TO ANSWER**
 
 - Primary KPI: Total casualties that happened after the accident.
-- Primary KPIs: Total casualties and their percentage concerning accident severity and maximum casualties by type of vehicle.
+
+- Primary KPI's: Total casualties and their percentage concerning accident severity and maximum casualties by type of vehicle.
+
 - Secondary KPI's:
-   -Total casualties concerning vehicle type. 
+  
+   -Total casualties concerning vehicle type.
+  
    -Monthly trend showing comparison of casualties in the current and previous year.
+  
    -Maximum casualties by road type.
+  
    -Distribution of total casualties by road surface.
+  
    -Relation between casualties by Area/Lighting conditions and Location.
 
 
