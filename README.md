@@ -147,13 +147,164 @@ Others: Casualties involving other types of vehicles totaled 3,424.
 
 The data indicates that incidents involving cars resulted in the highest number of casualties. Therefore, we will focus our analysis on casualties involving cars to gain deeper insights into the factors contributing to these incidents.
 
-Approximately 79.7% of the total casualties involved cars. This highlights the significant impact of car-related accidents and underscores the importance of understanding and addressing factors contributing to these incidents to improve overall road safety.
+Approximately 80% of the total casualties involved cars. This highlights the significant impact of car-related accidents and underscores the importance of understanding and addressing factors contributing to these incidents to improve overall road safety.
 
 
+Next, we analyzed the monthly trend showing the comparison of casualties in the current and previous year.
+
+| Month | 2021 Casualties | 2022 Casualties |
+|-------|------------------|------------------|
+| Jan   | 18173            | 13163            |
+| Feb   | 14648            | 14804            |
+| Mar   | 17815            | 16575            |
+| Apr   | 17335            | 15767            |
+| May   | 18852            | 16775            |
+| Jun   | 18728            | 17230            |
+| Jul   | 19682            | 17201            |
+| Aug   | 18797            | 16796            |
+| Sep   | 18456            | 17500            |
+| Oct   | 20109            | 18287            |
+| Nov   | 20975            | 18439            |
+| Dec   | 18576            | 13200            |
 
 
+Here's a summary of the trends observed:
+
+Overall Trend: In general, there appears to be a fluctuating trend in casualties between the two years, with some months experiencing increases while others see decreases.
+
+Monthly Comparison:
+
+January to March: The casualties in 2021 started higher compared to 2022, but by March, the numbers started to converge, with 2022 casualties slightly lower.
+
+April to June: From April to June, casualties in 2022 were consistently lower compared to the previous year, indicating a potential decrease in accidents during these months.
+
+July to September: In July and August, casualties in 2022 remained slightly lower than in 2021, but by September, they started to rise again, surpassing the previous year's numbers.
+
+October to December: From October to December, casualties in 2022 consistently exceeded those in 2021, with the largest difference observed in November and December.
+
+Seasonal Variations: There appears to be seasonal variation in casualty rates, with casualties generally increasing during the warmer months and decreasing during the colder months.
+
+Maximum casualties by road type:
+
+The provided data illustrates the maximum casualties categorized by road type
+
+| Road Type           | Sum of Number_of_Casualties |
+|---------------------|------------------------------|
+| (blank)             | 1.9k                         |
+| Slip road           | 4.7k                         |
+| One way street      | 7.4k                         |
+| Roundabout          | 26.8k                        |
+| Dual carriageway    | 67.4k                        |
+| Single carriageway  | 309.7k                       |
+| Grand Total         | 417.9k                       |
 
 
+Summary of the findings:
+
+Single Carriageway: Single carriageways recorded the highest number of casualties, totaling 309.7k, which accounts for approximately 74.2% of the grand total. This suggests that accidents on single-carriageways contribute significantly to overall casualties.
+
+Dual Carriageway: Dual carriageways had the second-highest number of casualties, with a total of 67.4k, making up about 16.1% of the grand total. While this is substantially lower than single carriageways, it still represents a significant proportion of casualties.
+
+Roundabout: Roundabouts witnessed a considerable number of casualties, totaling 26.8k, comprising approximately 6.4% of the grand total. This highlights the importance of road safety measures at roundabouts to mitigate accidents.
+
+One-Way Street and Slip Road: One-way streets and slip roads recorded relatively lower numbers of casualties compared to single and dual carriageways, with 7.4k and 4.7k casualties respectively. However, they still contribute to the overall casualty count.
+
+These findings underscore the importance of implementing targeted safety measures, such as improved signage, traffic management, and speed enforcement, particularly on single and dual carriageways, to reduce the incidence of accidents and enhance road safety. Additionally, addressing safety concerns at roundabouts can also help in mitigating casualties at these locations.
+
+
+Last but not least, on analyzing maximum casualties by road surface, the data revealed the following,
+
+
+| Road Surface   | Number of Casualties |
+|----------------|----------------------|
+| Dry            | 279445               |
+| (blank)        | 396                  |
+| Wet            | 115261               |
+| Snow or Ice    | 22781                |
+
+Dry Surface: The majority of casualties occurred on dry road surfaces, with a total of 279,445 casualties. Dry road conditions accounted for the highest number of casualties, indicating that most accidents occurred when road surfaces were dry.
+
+Wet Surface: Wet road surfaces accounted for a significant number of casualties, totaling 115,261. This suggests that rainy or wet conditions contribute to a considerable portion of accidents, although the number is lower than casualties on dry surfaces.
+
+Snow or Ice: Despite being less common, accidents on snow or ice-covered road surfaces still resulted in a notable number of casualties, totaling 22,781. This underscores the increased risk associated with driving in adverse weather conditions such as snow or ice.
+
+Unknown Surface: A small number of casualties (396) were reported with an unknown road surface type, which could be due to data recording or reporting inconsistencies.
+
+Overall, the data highlights the impact of road surface conditions on road safety, with dry surfaces being the most common setting for accidents, followed by wet surfaces. Adverse weather conditions like snow or ice also pose significant risks to road users, emphasizing the importance of exercising caution and implementing appropriate safety measures during inclement weather.
+
+
+Lastly, we analyzed the relation between casualties by location and lighting conditions.
+
+Location:
+
+| Location | Sum of Number_of_Casualties |
+|----------|-----------------------------|
+| Rural    |           162.0k            |
+| Urban    |           255.9k            |
+| Total    |           417.9k            |
+
+
+Summary:
+
+Urban Casualties: There were a total of 255.9k casualties reported in urban areas, representing approximately 61.3% of the grand total. This indicates a higher concentration of accidents in urban environments.
+
+Rural Casualties: Casualties reported in rural areas amounted to 162.0k, accounting for around 38.7% of the total. Although lower than urban casualties, accidents in rural settings still contribute significantly to the overall casualty count.
+
+The data suggests a higher incidence of accidents in urban areas compared to rural areas, highlighting the need for targeted road safety measures and infrastructure improvements in urban environments to reduce the risk of accidents and enhance overall road safety.
+
+
+Lighting conditions:
+
+| Lighting Conditions | Sum of Number_of_Casualties |
+|---------------------|-----------------------------|
+| Daylight            |           304,963           |
+| Dark                |           112,920           |
+| Total               |           417,883           |
+
+
+Summary:
+
+Daylight Casualties: The majority of casualties, totaling 304,963, occurred in daylight conditions. This indicates that the majority of accidents happen when visibility is optimal, possibly due to higher traffic volume during the day.
+
+Dark Casualties: Casualties reported in dark conditions amounted to 112,920. Although significantly lower than daylight casualties, accidents in dark conditions still contribute substantially to the overall casualty count.
+
+The data suggests that accidents are more prevalent during daylight hours compared to dark conditions. However, it's essential to implement appropriate safety measures, such as improved street lighting and driver awareness campaigns, to mitigate the risk of accidents in both daylight and dark conditions.
+
+
+DASHBOAR
+
+The dashboard features a user-friendly filter panel comprising a timeline for navigating through different months and a slicer for location (urban/rural), empowering stakeholders to explore the data efficiently.
+
+Positioned on the left side of the dashboard are five icons, each serving a distinct purpose. 
+Clicking on the second icon directs users to the dashboard sheet within our Excel file, providing access to the raw data.
+The third icon leads to the data analysis sheet, housing comprehensive analyses conducted on the dataset. 
+Utilizing the fourth icon facilitates emailing the dashboard directly to stakeholders. 
+Lastly, clicking on the last icon redirects users to the UK Road Accident website, facilitating access to additional information and resources pertinent to road safety.
+
+
+Conclusion:
+
+Trend Analysis: The data analysis reveals various trends and patterns regarding road accidents between 2021 and 2022. Casualties varied by month, with fluctuations observed across different road types, lighting conditions, and urban/rural areas.
+
+Contributing Factors: Factors such as road surface conditions, weather conditions, and lighting play a significant role in accident occurrence. Single carriageways and urban areas reported higher casualties, while daylight conditions accounted for the majority of accidents.
+
+Key Findings: Urban areas experienced a higher concentration of accidents compared to rural areas. Additionally, accidents were more prevalent in daylight conditions, highlighting the need for improved safety measures during optimal visibility.
+
+Actions to be Taken:
+
+Targeted Safety Campaigns: Implement targeted safety campaigns to raise awareness among drivers, cyclists, and pedestrians about road safety practices, particularly in urban areas with high accident rates.
+
+Infrastructure Improvements: Enhance infrastructure in accident-prone areas, such as roundabouts and single carriageways, to improve traffic flow and reduce the risk of collisions.
+
+Weather-Responsive Measures: Implement weather-responsive measures, such as road surface treatment and increased monitoring during adverse weather conditions like rain, snow, or ice, to mitigate accidents.
+
+Enhanced Lighting: Improve street lighting in areas with high accident rates, especially during nighttime, to enhance visibility and reduce the risk of accidents in dark conditions.
+
+Data-Driven Interventions: Continuously monitor and analyze accident data to identify emerging trends and hotspots, enabling proactive interventions and targeted safety measures.
+
+Collaboration: Foster collaboration between government agencies, law enforcement, and community stakeholders to develop comprehensive road safety strategies and initiatives.
+
+By implementing these actions, we can work towards reducing the incidence of road accidents, minimizing casualties, and creating safer road environments for all road users.
 
 
 
