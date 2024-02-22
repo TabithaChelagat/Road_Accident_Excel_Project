@@ -127,7 +127,7 @@ All our analyses will be conducted using pivot tables.
 |            417883           |
 
 
-The sum of 417,883 casualties represents the total number of casualties that occurred between the years 2021 and 2022.
+The sum of ``417,883`` casualties represents the total number of casualties that occurred between the years 2021 and 2022.
 
 
 2. ***Total casualties and their percentage concerning accident severity***.
@@ -144,15 +144,15 @@ The sum of 417,883 casualties represents the total number of casualties that occ
 
 The provided data presents a breakdown of total casualties categorized by accident severity between the years 2021 and 2022. Here's a summary:
 
-- *Fatal Casualties:* There were 7,135 fatal casualties, accounting for approximately 1.7% of the total casualties.
+- *Fatal Casualties:* There were ``7,135`` fatal casualties, accounting for approximately ``1.7%`` of the total casualties.
   
 ![UK Road Accident Dashboard (1)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/4e98d550-7b79-440e-9e53-85aa291fd814)
 
-- *Serious Casualties:* The number of serious casualties was 59,312, constituting approximately 14.2% of the total casualties.
+- *Serious Casualties:* The number of serious casualties was ``59,312``, constituting approximately ``14.2%`` of the total casualties.
 
 ![Screenshot (188) (1)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/8055af1f-c9ec-43e7-b15a-cd9b2cf1797f)
 
-- *Slight Casualties:* The majority of casualties were categorized as slight, with a total of 351,436 casualties, representing about 84.1% of the total.
+- *Slight Casualties:* The majority of casualties were categorized as slight, with a total of ``351,436`` casualties, representing about ``84.1%`` of the total.
 
 ![Screenshot (188) (2)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/4b2ad1c1-3832-436e-a274-83fa7058d56f)
 
@@ -176,17 +176,17 @@ highlighting the importance of addressing factors contributing to minor accident
 
 *Summary of findings:*
 
-- *Agricultural Vehicle:* There were 1,032 casualties involving agricultural vehicles.
+- *Agricultural Vehicle:* There were ``1,032`` casualties involving agricultural vehicles.
 
-- *Cars:* The highest number of casualties occurred in incidents involving cars, totaling 333,485 casualties.
+- *Cars:* The highest number of casualties occurred in incidents involving cars, totaling ``333,485`` casualties.
 
-- *Bus:* There were 12,798 casualties involving buses.
+- *Bus:* There were ``12,798`` casualties involving buses.
 
-- *Van:* The number of casualties involving vans was 33,472.
+- *Van:* The number of casualties involving vans was ``33,472``.
 
-- *Bike:* There were 33,672 casualties involving bicycles.
+- *Bike:* There were ``33,672`` casualties involving bicycles.
 
-- *Others:* Casualties involving other types of vehicles totaled 3,424.
+- *Others:* Casualties involving other types of vehicles totaled ``3,424``.
 
 ![UK Road Accident Dashboard (5)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/4622873f-d05b-4ea5-a5e1-461eef4a39a4)
 
@@ -196,7 +196,7 @@ The data indicates that incidents involving cars resulted in the highest number 
 ![UK Road Accident Dashboard (2)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/a965ceef-9ed2-4ba4-add2-cd6ca05ad6a5)
 
 
-Approximately 80% of the total casualties involved cars. This highlights the significant impact of car-related accidents and underscores the importance of understanding and addressing factors contributing to these incidents to improve overall road safety.
+Approximately ``80%`` of the total casualties involved cars. This highlights the significant impact of car-related accidents and underscores the importance of understanding and addressing factors contributing to these incidents to improve overall road safety.
 
 
 4. ***Monthly trend showing the comparison of casualties in the current and previous year***.
@@ -254,17 +254,13 @@ The provided data illustrates the maximum casualties categorized by road type
 
 *Summary of the findings:*
 
-- *Single Carriageway:* Single carriageways recorded the highest number of casualties, totaling 309.7k, which accounts for approximately 74.2% of the grand total. This suggests that 
-   accidents on single-carriageways contribute significantly to overall casualties.
+- *Single Carriageway:* Single carriageways recorded the highest number of casualties, totaling ``309.7k``, which accounts for approximately ``74.2%`` of the grand total. This suggests that accidents on single-carriageways contribute significantly to overall casualties.
 
-- *Dual Carriageway:* Dual carriageways had the second-highest number of casualties, with a total of 67.4k, making up about 16.1% of the grand total. While this is substantially lower 
-   than single carriageways, it still represents a significant proportion of casualties.
+- *Dual Carriageway:* Dual carriageways had the second-highest number of casualties, with a total of ``67.4k``, making up about ``16.1%`` of the grand total. While this is substantially lower than single carriageways, it still represents a significant proportion of casualties.
 
-- *Roundabout:* Roundabouts witnessed a considerable number of casualties, totaling 26.8k, comprising approximately 6.4% of the grand total. This highlights the importance of road 
-   safety measures at roundabouts to mitigate accidents.
+- *Roundabout:* Roundabouts witnessed a considerable number of casualties, totaling ``26.8k``, comprising approximately ``6.4%`` of the grand total. This highlights the importance of road safety measures at roundabouts to mitigate accidents.
 
-- *One-Way Street and Slip Road:* One-way streets and slip roads recorded relatively lower numbers of casualties compared to single and dual carriageways, with 7.4k and 4.7k casualties 
-   respectively. However, they still contribute to the overall casualty count.
+- *One-Way Street and Slip Road:* One-way streets and slip roads recorded relatively lower numbers of casualties compared to single and dual carriageways, with ``7.4k`` and ``4.7k`` casualties respectively. However, they still contribute to the overall casualty count.
 
 ![UK Road Accident Dashboard (3)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/864f09ea-faa2-4cf0-afc3-76bf72937496)
 
@@ -286,16 +282,16 @@ The data revealed the following,
 
 *Summary of findings:*
 
-- *Dry Surface:* The majority of casualties occurred on dry road surfaces, with a total of 279,445 casualties. Dry road conditions accounted for the highest number of casualties, 
+- *Dry Surface:* The majority of casualties occurred on dry road surfaces, with a total of ``279,445`` casualties. Dry road conditions accounted for the highest number of casualties, 
    indicating that most accidents occurred when road surfaces were dry.
 
-- *Wet Surface:* Wet road surfaces accounted for a significant number of casualties, totaling 115,261. This suggests that rainy or wet conditions contribute to a considerable portion of 
+- *Wet Surface:* Wet road surfaces accounted for a significant number of casualties, totaling ``115,261``. This suggests that rainy or wet conditions contribute to a considerable portion of 
    accidents, although the number is lower than casualties on dry surfaces.
 
-- *Snow or Ice:* Despite being less common, accidents on snow or ice-covered road surfaces still resulted in a notable number of casualties, totaling 22,781. This underscores the 
+- *Snow or Ice:* Despite being less common, accidents on snow or ice-covered road surfaces still resulted in a notable number of casualties, totaling ``22,781``. This underscores the 
    increased risk associated with driving in adverse weather conditions such as snow or ice.
 
-- *Unknown Surface:* A small number of casualties (396) were reported with an unknown road surface type, which could be due to data recording or reporting inconsistencies.
+- *Unknown Surface:* A small number of casualties ,``396``, were reported with an unknown road surface type, which could be due to data recording or reporting inconsistencies.
 
 ![UK Road Accident Dashboard (4)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/02fb6d36-4bbd-49ba-9fa2-6c20d9705033)
 
@@ -316,10 +312,10 @@ Overall, the data highlights the impact of road surface conditions on road safet
 
 *Summary of findings:*
 
-- *Urban Casualties:* There were a total of 255.9k casualties reported in urban areas, representing approximately 61.3% of the total. This indicates a higher concentration of 
+- *Urban Casualties:* There were a total of ``255.9k`` casualties reported in urban areas, representing approximately ``61.3%`` of the total. This indicates a higher concentration of 
    accidents in urban environments.
 
-- *Rural Casualties:* Casualties reported in rural areas amounted to 162.0k, accounting for around 38.7% of the total. Although lower than urban casualties, accidents in rural settings 
+- *Rural Casualties:* Casualties reported in rural areas amounted to ``162.0k``, accounting for around ``38.7%`` of the total. Although lower than urban casualties, accidents in rural settings 
    still contribute significantly to the overall casualty count.
 
 ![UK Road Accident Dashboard (6)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/f398c434-d26b-4e30-b595-37482d4ef305)
@@ -340,9 +336,9 @@ The data suggests a higher incidence of accidents in urban areas compared to rur
 
 *Summary of findings:*
 
-- *Daylight Casualties:* The majority of casualties, totaling 304,963, occurred in daylight conditions. This indicates that the majority of accidents happen when visibility is optimal, possibly due to higher traffic volume during the day.
+- *Daylight Casualties:* The majority of casualties, totaling ``304,963``, occurred in daylight conditions. This indicates that the majority of accidents happen when visibility is optimal, possibly due to higher traffic volume during the day.
 
-- *Dark Casualties:* Casualties reported in dark conditions amounted to 112,920. Although significantly lower than daylight casualties, accidents in dark conditions still contribute substantially to the overall casualty count.
+- *Dark Casualties:* Casualties reported in dark conditions amounted to ``112,920``. Although significantly lower than daylight casualties, accidents in dark conditions still contribute substantially to the overall casualty count.
 
 ![Screenshot (188) (4)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/c8b30268-18a0-494d-939f-59010e132291)
 
