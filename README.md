@@ -18,7 +18,7 @@ This project analyzes road accident data to identify patterns and trends, provid
 
 ## Overview of the Dataset
 - **Source:** [https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true.]
-- **Size:** [20 columns, 307,874]
+- **Size:** [20 columns, 307,874 rows.]
 - **Features:** Date, Time, Location, Cause, Severity, Demographics, etc.
 
 ## Dashboard Preview
@@ -36,18 +36,8 @@ This project analyzes road accident data to identify patterns and trends, provid
 - **Infrastructure:** Improve road signage and lighting at high-risk locations.
 - **Education:** Launch targeted awareness campaigns for young drivers on safe driving practices.
 
----
-
-Feel free to adjust any details as needed, especially the dataset source, size, and the link to the dashboard image. If you have any specific details or additional information to include, let me know!
 
 
-## Overview of the Dataset
-- **Source:** [https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true.]
-- **Size:** [20 columns, 307,874]
-- **Features:** Date, Time, Location, Cause, Severity, Demographics, etc.
-
-## Dashboard Preview
-![Screenshot (188)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/88fb8652-b08a-4536-9fad-ff4603680dc5)
 
 
 
