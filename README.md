@@ -17,8 +17,8 @@ This project analyzes road accident data to identify patterns and trends, provid
 - Deriving key findings and recommendations
 
 ## Overview of the Dataset
-- **Source:** [https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true.]
-- **Size:** [20 columns, 307,874 rows.]
+- **Source:** https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true.
+- **Size:** 20 columns, 307,874 rows.
 - **Features:** Date, Time, Location, Cause, Severity, Demographics, etc.
 
 ## Dashboard Preview
