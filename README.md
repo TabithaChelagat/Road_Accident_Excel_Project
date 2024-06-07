@@ -1,8 +1,7 @@
-
 # Road Accident Excel Project
 
 ## Introduction
-This project analyzes road accident data to identify patterns and trends, providing actionable insights to improve road safety. For detailed documentation, visit the full project on Medium.
+This project analyzes road accident data to identify patterns and trends, providing actionable insights to improve road safety. For detailed documentation, visit the [full project on Medium](https://medium.com/@chelagattabitha6/road-accident-analysis-excel-project-7c35efa600d7).
 
 ## Questions to Answer
 1. What are the most common causes of road accidents?
@@ -39,18 +38,19 @@ This project analyzes road accident data to identify patterns and trends, provid
 
 ---
 
+Feel free to adjust any details as needed, especially the dataset source, size, and the link to the dashboard image. If you have any specific details or additional information to include, let me know!
 
 
-**DATA SOURCE**
+## Overview of the Dataset
+- **Source:** [https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true.]
+- **Size:** [20 columns, 307,874]
+- **Features:** Date, Time, Location, Cause, Severity, Demographics, etc.
 
-Link to the dataset that will be used for our analysis, https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true.
-
-
-
-
-**DASHBOARD**
-
+## Dashboard Preview
 ![Screenshot (188)](https://github.com/tabby1307/Road_Accident_Excel_Project/assets/112205355/88fb8652-b08a-4536-9fad-ff4603680dc5)
+
+
+
 
 
 
